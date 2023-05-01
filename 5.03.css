@@ -1,0 +1,242 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+text-decoration: none;
+
+}
+.nvb{
+width: 100%;
+height: 10vh;
+background-color: white;
+color: black;
+display: flex;
+justify-content: space-between;
+align-items: center;
+position: fixed;
+}
+.sag p:hover{
+background-color: gray;
+}
+.sag{
+    font-size: 18px;
+    padding: 0 20px;
+    letter-spacing: 3px;
+    display: flex;
+    gap: 20px;
+}
+.sol{
+font-size: 20px;
+padding: 0 20px;
+letter-spacing: 2px;
+}
+
+.sol:hover{
+background-color: gray;
+}
+
+.image1{
+background-image:url(https://www.w3schools.com/w3images/architect.jpg);
+width: 95%;
+height: 100vh;
+margin: 0 auto;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 50px;
+color:  white;
+}
+.project{
+padding: 20px 20px;
+font-size: 25px;
+}
+
+.images{
+width: 100%;
+height: 40vh;
+display: flex;
+justify-content: center;
+gap: 10px;
+}
+
+.img1{
+background-image: url(https://www.w3schools.com/w3images/house5.jpg);
+width: 24%;
+height: 80%;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+.img2{
+background-image: url(https://www.w3schools.com/w3images/house2.jpg);
+width: 24%;
+height: 80%;
+background-repeat: no-repeat;
+background-size: contain;
+}
+.img3{
+background-image: url(https://www.w3schools.com/w3images/house3.jpg);
+width: 24%;
+height: 80%;
+background-repeat: no-repeat;
+background-size: contain;
+}
+.img4{
+background-image: url(https://www.w3schools.com/w3images/house4.jpg);
+width: 24%;
+height: 80%;
+background-repeat: no-repeat;
+background-size: contain;
+}
+.imgtx1{
+width: 130px;
+height: 35px;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: black;
+color: white;
+}
+.imgtx2{
+width:120px ;
+height: 30px;
+background-color: black;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.imgtx3{
+    width:100px ;
+    height: 30px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imgtx4{
+width:120px ;
+height: 30px;
+background-color: black;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.images2{
+width: 100%;
+height: 40vh;
+display: flex;
+justify-content: center;
+gap: 10px;
+
+
+}
+.img5{
+background-image: url(https://www.w3schools.com/w3images/house2.jpg);
+width: 24%;
+height: 80%;
+background-repeat: no-repeat;
+background-size: contain;
+}
+.img6{
+background-image: url(https://www.w3schools.com/w3images/house5.jpg);
+width: 24%;
+height: 80%;
+background-repeat: no-repeat;
+background-size: contain;
+}
+.img7{
+background-image: url(https://www.w3schools.com/w3images/house4.jpg);
+width: 24%;
+height: 80%;
+background-repeat: no-repeat;
+background-size: contain;
+}
+.img8{
+background-image: url(https://www.w3schools.com/w3images/house3.jpg);
+width: 24%;
+height: 80%;
+background-repeat: no-repeat;
+background-size: contain;
+}
+.about{
+padding: 0 20px;
+
+}
+.about1{
+font-size: 30px;
+}
+
+.info{
+width: 100%;
+height: 60vh;
+margin: 15px 0;
+display: flex;
+justify-content: center;
+gap: 10px;
+}
+.info1{
+width: 24%;
+height: 100%;
+}
+.info2{
+width: 24%;
+height: 100%;    
+}
+.info3{
+width: 24%;
+height: 100%;      
+}
+ .info4{
+width: 24%;
+height: 100%;   
+}
+.btn{
+width: 300px;
+height: 30px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.contact{
+margin: 10px 20px;
+width: 100%;
+height: 60vh;
+
+}
+.input{
+width: 90%;
+height: 11%;
+padding: 0 5px;
+margin: 0 20px;
+}
+
+.btn1{
+width: 8%;
+height: 10%;
+background-color: black;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 0 20px;
+}
+.btn1:hover{
+background-color: gray;
+}
+.end{
+width: 100%;
+height: 110vh;
+margin: 0 50px;
+}
+.nvbend{
+width: 100%;
+height: 15vh;
+background-color: black;
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+}
